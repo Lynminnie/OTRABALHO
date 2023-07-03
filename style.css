@@ -1,0 +1,32 @@
+h1 {color:burlywood 
+}
+ h1 {font-size: 150%; 
+} 
+ h1 {text-align: center; 
+} 
+ h2 {text-align: center; 
+}
+p {text-align: center;
+}
+ #ima1 {margin-left: 41%; 
+}
+ #ima2 {margin-left: 30%; 
+}
+#ima3 {margin-left: 30%;
+}
+h2 {border:solid 3px red;
+}
+p {color:white
+}
+h2 {color:white
+}
+p {font-size: 100%;
+}
+body {background-color: black;
+}
+
+#ima2 {width:30% ;
+}
+h1 {font-size: 270%;}
+#ima1 {width: 20%;}
+#ima3 {margin-left: 1%;}
